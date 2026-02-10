@@ -938,7 +938,7 @@ def draw_navbar():
             <div class="logo-text">NutriVerse</div>
         </div>
         <div class="nav-menu">
-            <a href="#" class="nav-link">Home</a>
+            <a href="#"  class="nav-link">Home</a>
             <a href="#" class="nav-link">Features</a>
             <a href="#" class="nav-link">Plans</a>
             <a href="#" class="nav-link">About</a>
